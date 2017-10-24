@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+*{
+	margin-left:0;
+	margin-right:0;
+	
+}
+body{
+	background-color: #D12AAB;
+	font-family: "Futura MD BT";
+	text-align:center;
+	color: white
+}
+ p {
+	
+	width: 100%;
+	font-size: 20px;
+	background: #A130E1;
+	padding: 4px;
+}
+
+table, td, th {    
+    text-align: center;
+	margin-left:500;
+	background: #A130E1;
+}
+
+th, td {
+    padding: 10px;
+}
+div{
+	font-family:Signika;
+	background-color: #D12AAB;
+	color:black;
+	height:300px;	
+	width: 100%;
+	display:table-cell;
+	}
+a{
+		
+	width: 100%;
+	font-size: 18px;
+	padding: 4px;
+	 }
+ h1  {
+	
+	width: 100%;
+	background: #F98DE7;
+	padding: 4px;
+ }
+  h4  {
+	font-family:Signika;
+	font-size: 20px;
+	
+ }
